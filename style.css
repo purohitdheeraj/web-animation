@@ -1,0 +1,8 @@
+#outerspace {
+  border: 1px solid #111;
+  border-radius: 10px;
+  filter: drop-shadow(0px 0px 10px #333);
+}
+body {
+  margin: 100px;
+}
